@@ -2,9 +2,8 @@
    <a href="https://github.com/InacioPS">
 </div>
 
-<div style="display" align="center">
+<div>
    <a href="https://github.com/InacioPS">
-    <img width="410px" src="https://github-readme-stats.vercel.app/api?username=InacioPS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img width="365px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InacioPS&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
