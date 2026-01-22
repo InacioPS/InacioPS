@@ -1,6 +1,13 @@
 <div>
    <a href="https://github.com/InacioPS">
 </div>
+
+<div align="center">
+  <a href="https://github.com/InacioPS">
+    <img width="410px" src="https://github-readme-stats.vercel.app/api?username=InacioPS&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img width="365px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InaicioPS&layout=compact&langs_count=7&theme=transparent"/>
+  </a>
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
